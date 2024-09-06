@@ -26,4 +26,4 @@
   - [Programming Assignment](week3/C3W3A1/)
     - [Deep Q-Learning - Lunar Lander](week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
 
-#### [Certificate of Completion]()
+#### [Certificate of Completion](https://coursera.org/verify/MSP88R65KKA5)

@@ -57,6 +57,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 ### [Certificate Of Completion](https://coursera.org/verify/Q83CQLK66P7T)
 
+![](c1.jpeg)
+
 <br/>
 
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
@@ -108,6 +110,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 ### [Certificate of Completion](https://coursera.org/verify/JQKCSH7E29DY)
 
+![](c2.jpeg)
 <br/>
 
 ## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
@@ -140,10 +143,13 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
   - [Programming Assignment](https://github.com/tanvirsweb/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3/C3W3A1)
     - [Deep Q-Learning - Lunar Lander](https://github.com/tanvirsweb/Machine-Learning-Specialization-Coursera/blob/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
 
-### [Certificate of Completion]()
+### [Certificate of Completion](https://coursera.org/verify/MSP88R65KKA5)
 
-### [Specialization Certificate]()
+![](c3.jpeg)
 
+### [Specialization Certificate](https://coursera.org/verify/specialization/2TKA0UC3XUBU)
+
+![](S.jpeg)
 <br/>
 
 <br/>
