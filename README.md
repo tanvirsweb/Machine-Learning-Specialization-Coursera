@@ -195,3 +195,9 @@ Concluding, this is a course which I would recommend everyone to take. Not just 
 <br/>
 
 **Happy Learning :))**
+
+# [How to build your own first Voice Assistant in Python](https://www.udemy.com/course/how-to-build-your-own-first-voice-assistant-in-python/)
+
+![](c4_UC-f6ff98e7-53f4-4db8-8f97-113786a21ab2.jpg)
+
+[credentials](https://www.udemy.com/certificate/UC-f6ff98e7-53f4-4db8-8f97-113786a21ab2/)
